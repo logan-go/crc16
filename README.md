@@ -1,2 +1,2 @@
 # crc16
-ctc16
+crc16 realization in golang
